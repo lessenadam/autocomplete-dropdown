@@ -1,0 +1,35 @@
+{
+    "plugins": [
+        "react",
+        "prettier",
+    ],
+    "parserOptions": {
+        "ecmaVersion": 6,
+        "sourceType": "module",
+        "ecmaFeatures": {
+            "jsx": true
+        }
+    },
+    "env": {
+        "es6":     true,
+        "browser": true,
+        "node":    true,
+        "mocha":   true
+    },
+    "extends": [
+        "eslint:recommended",
+        "plugin:react/recommended",
+        "prettier",
+        "prettier/react",
+    ],
+    "rules": {
+        "prettier/prettier": ["error", {
+          "singleQuote": true,
+          "trailingComma": "es5",
+          "jsxBracketSameLine": false,
+          "arrowParens": "always",
+        }],
+
+        "no-console": "warn",
+    }
+}

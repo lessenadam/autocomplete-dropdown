@@ -1,0 +1,1926 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"autocom",
+				"auotcomplete-dropdown"
+			],
+			[
+				"policy",
+				"policyEvalStatus"
+			],
+			[
+				"Scna",
+				"ScanningRuntimeLoadingState"
+			],
+			[
+				"scanning",
+				"ScanningRuntimeLoadingState"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"action",
+				"scanningActionDropdown"
+			],
+			[
+				"existin",
+				"existingTrigger"
+			],
+			[
+				"rme",
+				"removeRule"
+			],
+			[
+				"scann",
+				"scanningActionDropdown"
+			],
+			[
+				"exist",
+				"existingTrigger"
+			],
+			[
+				"change",
+				"changeTriggerForRule"
+			],
+			[
+				"select",
+				"selectionProperties"
+			],
+			[
+				"vulncr",
+				"vulncritical"
+			],
+			[
+				"newPoli",
+				"newPolicyRules"
+			],
+			[
+				"base",
+				"baseRules"
+			],
+			[
+				"tri",
+				"triggerDropdown"
+			],
+			[
+				"des",
+				"description"
+			],
+			[
+				"mapped",
+				"mappedDescriptions"
+			],
+			[
+				"trigger",
+				"triggerDescriptions"
+			],
+			[
+				"rule",
+				"ruleDescriptions"
+			],
+			[
+				"poli",
+				"policies"
+			],
+			[
+				"policyb",
+				"policybundle"
+			],
+			[
+				"existing",
+				"existingPolicy"
+			],
+			[
+				"norml",
+				"normalizeBundle"
+			],
+			[
+				"nomr",
+				"normalizePayload"
+			],
+			[
+				"norm",
+				"normalized"
+			],
+			[
+				"isEx",
+				"isExecuting"
+			],
+			[
+				"saveReg",
+				"saveRegistryState"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"encode",
+				"encodedRepoId"
+			],
+			[
+				"start",
+				"startScanLoadingState"
+			],
+			[
+				"startSca",
+				"startImageScanState"
+			],
+			[
+				"isImage",
+				"isImageScanInProgress"
+			],
+			[
+				"loa",
+				"repoLoadingState"
+			],
+			[
+				"scna",
+				"scanningResults"
+			],
+			[
+				"mockDat",
+				"mockDataNoDetail"
+			],
+			[
+				"histor",
+				"historyStartIndex"
+			],
+			[
+				"update",
+				"updateRepoUpdateTime"
+			],
+			[
+				"resu",
+				"resultsLoadingState"
+			],
+			[
+				"tags",
+				"tagsWithLoadingState"
+			],
+			[
+				"promise",
+				"promises"
+			],
+			[
+				"reposi",
+				"repositoriesLoadingState"
+			],
+			[
+				"repos",
+				"repositoryLoadingState"
+			],
+			[
+				"repo",
+				"repositoriesLoadingState"
+			],
+			[
+				"Repos",
+				"ReposistoryLoadingState"
+			],
+			[
+				"avail",
+				"availableSites"
+			],
+			[
+				"availab",
+				"availableSites"
+			],
+			[
+				"stri",
+				"strictEqual"
+			],
+			[
+				"regi",
+				"registriesLoadState"
+			],
+			[
+				"reg",
+				"registryLoadState"
+			],
+			[
+				"registries",
+				"registriesLoadState"
+			],
+			[
+				"registr",
+				"registryLoadState"
+			],
+			[
+				"regsi",
+				"registryLoadState"
+			],
+			[
+				"look",
+				"lookupProperty"
+			],
+			[
+				"userMes",
+				"userMessageService"
+			],
+			[
+				"isPo",
+				"isPolicyOnboardingComplete"
+			],
+			[
+				"active",
+				"activeChip"
+			],
+			[
+				"appli",
+				"applicationUserSettings"
+			],
+			[
+				"agg",
+				"aggregatedSmartPolicyEvent"
+			],
+			[
+				"buildAgg",
+				"buildSmartAggregatedPolicyEvent"
+			],
+			[
+				"baseline",
+				"baselineProps"
+			],
+			[
+				"time",
+				"timestamp"
+			],
+			[
+				"listen",
+				"listeningPorts"
+			],
+			[
+				"globa",
+				"globalActive"
+			],
+			[
+				"mocked",
+				"mockedStatuses"
+			],
+			[
+				"restart",
+				"restartLearning"
+			],
+			[
+				"restar",
+				"restartLearning"
+			],
+			[
+				"rest",
+				"restartedBaseline"
+			],
+			[
+				"ruleTy",
+				"ruleTypeStatusRow"
+			],
+			[
+				"globaSt",
+				"globalStatusMessage"
+			],
+			[
+				"baselin",
+				"baselineName"
+			],
+			[
+				"handle",
+				"handleScrollEvent"
+			],
+			[
+				"handl",
+				"handleScrollEvent"
+			],
+			[
+				"descri",
+				"descriptions"
+			],
+			[
+				"policyevn",
+				"policyEventActionContext"
+			],
+			[
+				"policyEve",
+				"policyEventRuleInfo"
+			],
+			[
+				"contain",
+				"containerImage"
+			],
+			[
+				"activityE",
+				"activityExceptions"
+			],
+			[
+				"activ",
+				"activityOptions"
+			],
+			[
+				"sys",
+				"syscallsConfigurationOverrides"
+			],
+			[
+				"margi",
+				"margin-right"
+			],
+			[
+				"baselinCon",
+				"baselineConfigurationCache"
+			],
+			[
+				"Baseline",
+				"BaselineConfigurationStore"
+			],
+			[
+				"baselineConfi",
+				"baselineConfigurationCache"
+			],
+			[
+				"confi",
+				"configurationDataStore"
+			],
+			[
+				"baselineGr",
+				"baselineGroupdId"
+			],
+			[
+				"selecte",
+				"selectedTeams"
+			],
+			[
+				"muli",
+				"multipleParamArgs"
+			],
+			[
+				"redire",
+				"redirectRouteName"
+			],
+			[
+				"target",
+				"targetDestination"
+			],
+			[
+				"selection",
+				"selectionParams"
+			],
+			[
+				"default",
+				"defaultRouteName"
+			],
+			[
+				"queryPar",
+				"queryParamsArg"
+			],
+			[
+				"defaultParm",
+				"defaultParamName"
+			],
+			[
+				"high",
+				"highlighted"
+			],
+			[
+				"sever",
+				"severityPhrase"
+			],
+			[
+				"targ",
+				"targetDestination"
+			],
+			[
+				"falco",
+				"falcoConfiguration"
+			],
+			[
+				"rules",
+				"rulesEditor"
+			],
+			[
+				"toggle",
+				"toggleOptList"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"actual",
+				"actualDescription"
+			],
+			[
+				"actua",
+				"actualDescription"
+			],
+			[
+				"secure",
+				"secureTeamName"
+			],
+			[
+				"getTime",
+				"getTimeParamForLink"
+			],
+			[
+				"capturesIn",
+				"capturesInProgress"
+			],
+			[
+				"caput",
+				"captureOptions"
+			],
+			[
+				"captureQuee",
+				"captureQueue.@each.status"
+			],
+			[
+				"getData",
+				"getDataStoreService"
+			],
+			[
+				"seconds",
+				"SECONDS_PER_3_DAY"
+			],
+			[
+				"SECOND",
+				"SECONDS_PER_DAY"
+			],
+			[
+				"nanoe",
+				"nanoSecondsToMiliSeconds"
+			],
+			[
+				"nanoSe",
+				"nanoSecondsToSeconds"
+			],
+			[
+				"captu",
+				"captureOptions.duration"
+			],
+			[
+				"save",
+				"saveError"
+			],
+			[
+				"valida",
+				"validationErrors.duration"
+			],
+			[
+				"validationErro",
+				"validationErrors.name"
+			],
+			[
+				"valid",
+				"validationErrors.name"
+			],
+			[
+				"MAX",
+				"MAX_DURATION_VALUE"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"ip",
+				"ip-10-0-0-1"
+			],
+			[
+				"prog",
+				"progressString"
+			],
+			[
+				"numberC",
+				"numberCapturesInProgess"
+			],
+			[
+				"queue",
+				"queue"
+			],
+			[
+				"load",
+				"loadImmediately"
+			],
+			[
+				"container",
+				"containerValue"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "App.js",
+			"settings":
+			{
+				"buffer_size": 375,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/adam/Documents/autocomplete-dropdown/.eslintrc",
+			"settings":
+			{
+				"buffer_size": 679,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "DropdownIntroHeader.js",
+			"settings":
+			{
+				"buffer_size": 432,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "AutocompleteDropdown.js",
+			"settings":
+			{
+				"buffer_size": 260,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 271.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"dupli",
+				"File: Duplicate"
+			],
+			[
+				"dup",
+				"File: Duplicate"
+			],
+			[
+				"dupl",
+				"File: Duplicate"
+			],
+			[
+				"del",
+				"File: Delete"
+			],
+			[
+				"rena",
+				"File: Rename"
+			],
+			[
+				"ren",
+				"File: Rename"
+			],
+			[
+				"rean",
+				"Rename File"
+			],
+			[
+				"du",
+				"File: Duplicate"
+			],
+			[
+				"olor",
+				"UI: Select Color Scheme"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"colo",
+				"UI: Select Color Scheme"
+			],
+			[
+				"them",
+				"UI: Select Theme"
+			],
+			[
+				"renam",
+				"File: Rename"
+			],
+			[
+				"togglehi",
+				"SublimeLinter: Toggle Highlights"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"duplic",
+				"File: Duplicate"
+			],
+			[
+				"delete",
+				"File: Delete"
+			],
+			[
+				"sublimlintse",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"sublsetitng",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"newfil",
+				"File: New File Relative to Current View"
+			],
+			[
+				"sulbilinsett",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"sublimlintset",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"togg",
+				"SublimeLinter: Toggle Highlights"
+			],
+			[
+				"toggl",
+				"SublimeLinter: Toggle Highlights"
+			],
+			[
+				"reane",
+				"Rename File"
+			],
+			[
+				"rn",
+				"Snippet: React: componentWillUpdate: fn(np, ns) { ... }"
+			],
+			[
+				"toggle",
+				"SublimeLinter: Toggle Highlights"
+			],
+			[
+				"toggleh",
+				"SublimeLinter: Toggle Highlights"
+			],
+			[
+				"togglhig",
+				"SublimeLinter: Toggle Highlights"
+			],
+			[
+				"copy",
+				"File: Copy Name"
+			],
+			[
+				"togglh",
+				"SublimeLinter: Toggle Highlights"
+			],
+			[
+				"to",
+				"SublimeLinter: Toggle Highlights"
+			],
+			[
+				"high",
+				"SublimeLinter: Toggle Highlights"
+			],
+			[
+				"highlih",
+				"SublimeLinter: Toggle Highlights"
+			],
+			[
+				"sublimelinter",
+				"SublimeLinter: Toggle Highlights"
+			],
+			[
+				"packageins",
+				"Package Control: Install Package"
+			],
+			[
+				"linter",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"next ",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"mo",
+				"File: Move"
+			],
+			[
+				"delet",
+				"File: Delete"
+			],
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"mov",
+				"File: Move"
+			],
+			[
+				"eslint",
+				"ESLint Formatter: Format this file"
+			],
+			[
+				"sublime",
+				"SublimeLinter: Previous Error"
+			],
+			[
+				"eslin",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"prettier",
+				"JsPrettier: Format Code"
+			],
+			[
+				"synta ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"path",
+				"File: Copy Path"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markdo",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markdow",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"eomi",
+				"Emoji: Insert Emoji"
+			],
+			[
+				"packa",
+				"Package Control: Disable Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"de",
+				"File: Delete"
+			],
+			[
+				"emoji",
+				"Emoji: Insert Emoji"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"linter mode",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"file pa",
+				"File: Copy Path"
+			],
+			[
+				"spaces",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"ident",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"lint mode",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"glue",
+				"Glue - Launch"
+			],
+			[
+				"package ",
+				"Package Control: Remove Package"
+			],
+			[
+				"elm lan",
+				"Elm Language Support: Run elm-format"
+			],
+			[
+				"package inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 500.0
+	},
+	"console":
+	{
+		"height": 509.0,
+		"history":
+		[
+			"glue",
+			"`glue",
+			"glue path",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/adam/Documents/autocomplete-dropdown",
+		"/Users/adam/Documents/autocomplete-dropdown/public",
+		"/Users/adam/Documents/autocomplete-dropdown/src"
+	],
+	"file_history":
+	[
+		"/Users/adam/Documents/sysdig/sds-frontend/app/scripts/controllers/policyEvents/time/scope.js",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/scripts/routes/policyEvents/time/scope.js",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/scripts/controllers/scanning/runtime/scope.js",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/scripts/routes/scanning/runtime/scope.js",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/scripts/routes/mixins/scopeExtract.js",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/scripts/components/sds-infrastructure-nav.js",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/templates/components/sds-infrastructure-nav.hbs",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/scripts/services/sds/infrastructureTreeStore.js",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/scripts/components/block-infrastructure-tree.js",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/templates/scanning/runtime/scope.hbs",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/templates/policyEvents.hbs",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/scripts/controllers/policyEvents.js",
+		"/Users/adam/Documents/sysdig/sds-frontend/tests/apiServer/scanningPolicyDescription.js",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/scripts/utils/promise-state.js",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/scripts/adapters/scanningRuntimeImage.js",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/scripts/routes/scanning/repositories.js",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/scripts/routes/scanning/repositories/selection.js",
+		"/Users/adam/Documents/sysdig/sds-frontend/tests/apiServer/imageScan.js",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/templates/components/block-policy-list.hbs",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/templates/policies/list.hbs",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/templates/policies.hbs",
+		"/Users/adam/Documents/sysdig/sds-frontend/tests/apiServer/scanningPolicyBundle.js",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/scripts/components/element-tooltip.js",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/scripts/components/block-tooltip.js",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/styles/components/sds-runtime-image.less",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/styles/components/block-data-loader.less",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/scripts/components/block-overflow-wrapper.js",
+		"/Users/adam/Documents/sysdig/sds-frontend/tests/suites/acceptance/scanningRuntimeExplore.js",
+		"/Users/adam/Documents/sysdig/sds-frontend/tests/suites/acceptance/policies.js",
+		"/Users/adam/Documents/sysdig/sds-frontend/tests/apiServer/scanningRuntimeImage.js",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/scripts/components/sds-runtime-image.js",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/styles/components/sds-scanning-list-item-base.less",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/templates/components/sds-scanning-runtime-list.hbs",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/templates/components/sds-scanning-policy-list.hbs",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/templates/scanning/policies.hbs",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/styles/components/import.less",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/scripts/components/sds-scanning-runtime-list.js",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/templates/scanning/runtime.hbs",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/templates/components/sds-runtime-image.hbs",
+		"/Users/adam/Documents/sysdig/sds-frontend/tests/suites/sds/components/sds-collapsable-list.js",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/styles/components/sds-collapsable-list.less",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/templates/components/sds-collapsable-list.hbs",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/scripts/routes/router.js",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/scripts/routes/scanning/repositories/selection/tag/digest.js",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/scripts/utils/scanningHelper.js",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/scripts/components/sds-scanning-policy-list.js",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/scripts/components/sds-collapsable-list.js",
+		"/Users/adam/Documents/sysdig/sds-frontend/tests/suites/sds/components/sds-scanning-policy-list.js",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/styles/colors.less",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/styles/components/block-dropdown-input.less",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/templates/components/block-dropdown-filtered.hbs",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/styles/components/sds-scanning-policy-list-item.less",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/styles/components/mixin-dropdown-flipping-arrow.less",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/styles/components/block-dropdown-filtered.less",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/scripts/adapters/anchore.js",
+		"/Users/adam/Documents/sysdig/sds-frontend/tests/suites/components/_template.js",
+		"/Users/adam/Documents/sysdig/sds-frontend/tests/suites/components/block-billing-history.js",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/templates/forensics/captures.hbs",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/scripts/routes/mixins/redirect.js",
+		"/Users/adam/Documents/sysdig/sds-frontend/tests/suites/sds/services/scanningRuntimeStore.js",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/scripts/routes/scanning/runtime/index.js",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/scripts/models/scanningRuntimeImage.js",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/scripts/services/sds/scanningPolicyStore.js",
+		"/Users/adam/Documents/react-resources/react-fundamentals-curriculum/package.json",
+		"/Users/adam/Documents/react-resources/react-fundamentals-curriculum/app/index.css",
+		"/Users/adam/Documents/react-resources/react-fundamentals-curriculum/app/components/App.js",
+		"/Users/adam/Documents/react-resources/react-fundamentals-curriculum/app/components/WeatherContainer.js",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/templates/components/sds-scanning-policy-editor.hbs",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/templates/policies/rulesEditor.hbs",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/scripts/components/sds-scanning-policy-rule-editor.js",
+		"/Users/adam/Documents/sysdig/sds-frontend/tests/suites/sds/components/sds-scanning-policy-rules-list.js",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/scripts/components/sds-scanning-policy-rules-list.js",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/templates/components/sds-scanning-policy-rules-list.hbs",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/templates/components/sds-scanning-policy-rule-editor.hbs",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/templates/components/sds-scanning-action-dropdown.hbs",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/styles/components/sds-scanning-policy-rules-list.less",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/styles/components/sds-scanning-policy-rule-editor.less",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/scripts/components/block-dropdown-filtered.js",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/templates/components/block-dropdown-filtered-fixed-input.hbs",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/scripts/components/block-dropdown-filtered-fixed-input.js",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/scripts/components/block-scanning-action-dropdown.js",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/templates/components/block-policy-filter-bar.hbs",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/scripts/components/block-policy-filter-bar.js",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/styles/components/block-image-scan-loader.less",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/templates/components/block-image-scan-results.hbs",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/templates/components/scanning-policy-rule-action.hbs",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/scripts/components/block-dropdown-list-item.js",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/scripts/components/sds-scanning-action-dropdown.js",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/scripts/components/block-list-item.js",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/templates/components/element-list-item.hbs",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/templates/policies/list/toolbar.hbs",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/scripts/routes/policies/list.js",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/scripts/routes/policies.js",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/templates/scanning/policies/toolbar.hbs",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/scripts/components/block-policy-grouping-dropdown.js",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/scripts/components/sds-context-menu.js",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/templates/components/block-policy-grouping-dropdown.hbs",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/templates/components/block-policy-editor.hbs",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/scripts/components/sds-scanning-policy-editor.js",
+		"/Users/adam/Documents/sysdig/sds-frontend/tests/suites/sds/services/scanningPolicyStore.js",
+		"/Users/adam/Documents/sysdig/sds-frontend/tests/suites/sds/services/scanningRepositoryStore.js",
+		"/Users/adam/Documents/sysdig/sds-frontend/tests/suites/sds/components/sds-scanning-policy-rule-editor.js",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/scripts/models/scanningPolicyBundle.js",
+		"/Users/adam/Documents/sysdig/sds-frontend/tests/suites/sds/components/block-image-scan-loader.js",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/templates/components/block-image-scan-paragraph.hbs",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/scripts/components/block-image-scan-paragraph.js",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/styles/components/sds-scanning-policy-editor.less",
+		"/Users/adam/Documents/sysdig/sds-frontend/tests/suites/sds/components/sds-scanning-policy-editor.js",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/scripts/serializers/scanningPolicyBundle.js",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/scripts/components/block-image-scan-results.js",
+		"/Users/adam/Documents/sysdig/sds-frontend/tests/suites/sds/components/sds-scanning-policy-rules.js",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/scripts/routes/scanning.js",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/styles/components/sds-scanning-policy-rules.less",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/templates/components/block-image-scan-loader.hbs",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/scripts/components/sds-scanning-policy-rules.js",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/templates/components/sds-scanning-policy-rules.hbs",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/templates/components/block-image-scan-history.hbs",
+		"/Users/adam/Documents/sysdig/sds-frontend/tests/apiServer/server.js",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/scripts/utils/request.js",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/styles/components/sds-repo-tag-list.less",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/templates/components/sds-repo-tag-list.hbs",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/scripts/components/block-policy-list.js",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/scripts/components/sds-repo-tag-list.js",
+		"/Users/adam/Documents/sysdig/sds-frontend/tests/suites/sds/components/sds-repo-tag-list.js",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/scripts/services/sds/scanningRepositoryStore.js",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/scripts/components/block-policy-rule-processes-form.js",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/scripts/routes/policies/list/search/selection.js",
+		"/Users/adam/Documents/sysdig/sds-frontend/app/scripts/models/policy.js"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"DropdownIntroHeader",
+			"DropdowonIntroHeader",
+			"App",
+			"DropdowonIntroHeader",
+			"App"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "App.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 375,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								375,
+								375
+							]
+						],
+						"settings":
+						{
+							"SL.1064.region_keys":
+							[
+								"sublime_linter.protected_regions",
+								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot",
+								"SL.eslint.Highlights.|a79d196d93d25cbe538f98e3a77606f5d3953943c19a97a25d345dca91e147f7|region.redish markup.error.sublime_linter|32"
+							],
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/adam/Documents/autocomplete-dropdown/.eslintrc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 679,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								329,
+								329
+							]
+						],
+						"settings":
+						{
+							"SL.1091.region_keys":
+							[
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "DropdownIntroHeader.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 432,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								357,
+								357
+							]
+						],
+						"settings":
+						{
+							"SL.1066.region_keys":
+							[
+								"sublime_linter.protected_regions",
+								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot",
+								"SL.eslint.Highlights.|6db90fce214ec1591a06298aea181e9c36b51169268b0432d8c1f72daedb6d7f|region.redish markup.error.sublime_linter|32"
+							],
+							"SL.57.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "AutocompleteDropdown.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 260,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								260,
+								260
+							]
+						],
+						"settings":
+						{
+							"SL.1090.region_keys":
+							[
+								"sublime_linter.protected_regions",
+								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot",
+								"SL.eslint.Highlights.|6db90fce214ec1591a06298aea181e9c36b51169268b0432d8c1f72daedb6d7f|region.redish markup.error.sublime_linter|32"
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 51.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 124.0
+	},
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.elm_type":
+	{
+		"height": 154.0
+	},
+	"output.exec":
+	{
+		"height": 824.0
+	},
+	"output.find_results":
+	{
+		"height": 393.0
+	},
+	"pinned_build_system": "",
+	"project": "autocomplete-dropdown.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"redi",
+				"app/scripts/routes/mixins/redirect.js"
+			],
+			[
+				"routedefj",
+				"app/scripts/utils/routeDefault.js"
+			],
+			[
+				"selecex",
+				"app/scripts/routes/mixins/selectionExtract.js"
+			],
+			[
+				"routcapseljs",
+				"app/scripts/routes/forensics/captures/time/scope/search/selection.js"
+			],
+			[
+				"routscrunscop",
+				"app/scripts/routes/scanning/runtime/scope.js"
+			],
+			[
+				"routescanruntimjs",
+				"app/scripts/routes/scanning/runtime/index.js"
+			],
+			[
+				"scopex",
+				"app/scripts/routes/mixins/scopeExtract.js"
+			],
+			[
+				"routepoleventscope",
+				"app/scripts/routes/policyEvents/time/scope.js"
+			],
+			[
+				"polieventscope",
+				"app/scripts/controllers/policyEvents/time/scope.js"
+			],
+			[
+				"routerunscope",
+				"app/scripts/routes/scanning/runtime/scope.js"
+			],
+			[
+				"contrunscope",
+				"app/scripts/controllers/scanning/runtime/scope.js"
+			],
+			[
+				"sdsinnavjs",
+				"app/scripts/components/sds-infrastructure-nav.js"
+			],
+			[
+				"scanrunscophb",
+				"app/templates/scanning/runtime/scope.hbs"
+			],
+			[
+				"sdsinfrnavhb",
+				"app/templates/components/sds-infrastructure-nav.hbs"
+			],
+			[
+				"inftrestore",
+				"app/scripts/services/sds/infrastructureTreeStore.js"
+			],
+			[
+				"blockinftre",
+				"app/scripts/components/block-infrastructure-tree.js"
+			],
+			[
+				"infratree",
+				"app/scripts/components/block-infrastructure-tree.js"
+			],
+			[
+				"routeruntimscope",
+				"app/scripts/routes/scanning/runtime/scope.js"
+			],
+			[
+				"controlruntimesco",
+				"app/scripts/controllers/scanning/runtime/scope.js"
+			],
+			[
+				"runscophbs",
+				"app/templates/scanning/runtime/scope.hbs"
+			],
+			[
+				"sdsinfrnahb",
+				"app/templates/components/sds-infrastructure-nav.hbs"
+			],
+			[
+				"polieventhbs",
+				"app/templates/policyEvents.hbs"
+			],
+			[
+				"cotpolievent",
+				"app/scripts/controllers/policyEvents.js"
+			],
+			[
+				"infrtrestore",
+				"app/scripts/services/sds/infrastructureTreeStore.js"
+			],
+			[
+				"blockinfrtree",
+				"app/scripts/components/block-infrastructure-tree.js"
+			],
+			[
+				"apiserdes",
+				"tests/apiServer/scanningPolicyDescription.js"
+			],
+			[
+				"apiserverimage",
+				"tests/apiServer/imageScan.js"
+			],
+			[
+				"routescanreposel",
+				"app/scripts/routes/scanning/repositories/selection.js"
+			],
+			[
+				"routscarepojs",
+				"app/scripts/routes/scanning/repositories.js"
+			],
+			[
+				"adapruntimim",
+				"app/scripts/adapters/scanningRuntimeImage.js"
+			],
+			[
+				"promistat",
+				"app/scripts/utils/promise-state.js"
+			],
+			[
+				"impor",
+				"app/styles/components/import.less"
+			],
+			[
+				"scanrunscophbs",
+				"app/templates/scanning/runtime/scope.hbs"
+			],
+			[
+				"scanexpl",
+				"tests/suites/acceptance/scanningRuntimeExplore.js"
+			],
+			[
+				"elemetool",
+				"app/scripts/components/element-tooltip.js"
+			],
+			[
+				"sdsruniml",
+				"app/styles/components/sds-runtime-image.less"
+			],
+			[
+				"blockoverwra",
+				"app/scripts/components/block-overflow-wrapper.js"
+			],
+			[
+				"sdsscanlistitles",
+				"app/styles/components/sds-scanning-list-item-base.less"
+			],
+			[
+				"sdsrunimles",
+				"app/styles/components/sds-runtime-image.less"
+			],
+			[
+				"blockdataloadles",
+				"app/styles/components/block-data-loader.less"
+			],
+			[
+				"sdsscanimli",
+				"app/templates/components/sds-scanning-runtime-list.hbs"
+			],
+			[
+				"apiserscanpol",
+				"tests/apiServer/scanningPolicyBundle.js"
+			],
+			[
+				"apiserrunim",
+				"tests/apiServer/scanningRuntimeImage.js"
+			],
+			[
+				"sdsrnim",
+				"app/scripts/components/sds-runtime-image.js"
+			],
+			[
+				"blockpollisthbs",
+				"app/templates/components/block-policy-list.hbs"
+			],
+			[
+				"pollisthbs",
+				"app/templates/policies/list.hbs"
+			],
+			[
+				"poli",
+				"app/templates/policies.hbs"
+			],
+			[
+				"scanpollisthbs",
+				"app/templates/components/sds-scanning-policy-list.hbs"
+			],
+			[
+				"scanpolihbs",
+				"app/templates/scanning/policies.hbs"
+			],
+			[
+				"scanrunlisthbs",
+				"app/templates/components/sds-scanning-runtime-list.hbs"
+			],
+			[
+				"accpetpol",
+				"tests/suites/acceptance/policies.js"
+			],
+			[
+				"apiseruntime",
+				"tests/apiServer/scanningRuntimeImage.js"
+			],
+			[
+				"runtimeexplre",
+				"tests/suites/acceptance/scanningRuntimeExplore.js"
+			],
+			[
+				"runtimlisjs",
+				"app/scripts/components/sds-scanning-runtime-list.js"
+			],
+			[
+				"routeruntimescope",
+				"app/scripts/routes/scanning/runtime/scope.js"
+			],
+			[
+				"routescope",
+				"app/scripts/routes/mixins/scopeExtract.js"
+			],
+			[
+				"accscanex",
+				"tests/suites/acceptance/scanningRuntimeExplore.js"
+			],
+			[
+				"controllruntimsco",
+				"app/scripts/controllers/scanning/runtime/scope.js"
+			],
+			[
+				"scanpolieshbs",
+				"app/templates/scanning/policies.hbs"
+			],
+			[
+				"scanruntimescope",
+				"app/templates/scanning/runtime/scope.hbs"
+			],
+			[
+				"scanruntimehb",
+				"app/templates/scanning/runtime.hbs"
+			],
+			[
+				"runtimehbs",
+				"app/templates/components/sds-runtime-image.hbs"
+			],
+			[
+				"runtimlisthbs",
+				"app/templates/components/sds-scanning-runtime-list.hbs"
+			],
+			[
+				"collalisles",
+				"app/styles/components/sds-collapsable-list.less"
+			],
+			[
+				"sdscolllihb",
+				"app/templates/components/sds-collapsable-list.hbs"
+			],
+			[
+				"sdscolllijs",
+				"tests/suites/sds/components/sds-collapsable-list.js"
+			],
+			[
+				"scanhelp",
+				"app/scripts/utils/scanningHelper.js"
+			],
+			[
+				"scanreposelectagdig",
+				"app/scripts/routes/scanning/repositories/selection/tag/digest.js"
+			],
+			[
+				"routerj",
+				"app/scripts/routes/router.js"
+			],
+			[
+				"sdscanlistitembase",
+				"app/styles/components/sds-scanning-list-item-base.less"
+			],
+			[
+				"runtimimales",
+				"app/styles/components/sds-runtime-image.less"
+			],
+			[
+				"sdsruntimjs",
+				"app/scripts/components/sds-runtime-image.js"
+			],
+			[
+				"sdsruntim",
+				"app/styles/components/sds-runtime-image.less"
+			],
+			[
+				"runimles",
+				"app/styles/components/sds-runtime-image.less"
+			],
+			[
+				"sdscollihbs",
+				"app/templates/components/sds-collapsable-list.hbs"
+			],
+			[
+				"blockdropintles",
+				"app/styles/components/block-dropdown-input.less"
+			],
+			[
+				"blockdrofilles",
+				"app/styles/components/block-dropdown-filtered.less"
+			],
+			[
+				"colore",
+				"app/styles/colors.less"
+			],
+			[
+				"blockdropfilhbs",
+				"app/templates/components/block-dropdown-filtered.hbs"
+			],
+			[
+				"blockover",
+				"app/scripts/components/block-overflow-wrapper.js"
+			],
+			[
+				"sdspollistles",
+				"app/styles/components/sds-scanning-policy-list-item.less"
+			],
+			[
+				"testsdsplilist",
+				"tests/suites/sds/components/sds-scanning-policy-list.js"
+			],
+			[
+				"sdspollistjs",
+				"app/scripts/components/sds-scanning-policy-list.js"
+			],
+			[
+				"sdspolilist",
+				"app/templates/components/sds-scanning-policy-list.hbs"
+			],
+			[
+				"apiscanimage",
+				"tests/apiServer/scanningRuntimeImage.js"
+			],
+			[
+				"anchore",
+				"app/scripts/adapters/anchore.js"
+			],
+			[
+				"sdsscaninpollisthbs",
+				"app/templates/components/sds-scanning-policy-list.hbs"
+			],
+			[
+				"sdsscanpolilist",
+				"app/scripts/components/sds-scanning-policy-list.js"
+			],
+			[
+				"acrunexplo",
+				"tests/suites/acceptance/scanningRuntimeExplore.js"
+			],
+			[
+				"testblockbill",
+				"tests/suites/components/block-billing-history.js"
+			],
+			[
+				"capturhbs",
+				"app/templates/forensics/captures.hbs"
+			],
+			[
+				"modelruntime",
+				"app/scripts/models/scanningRuntimeImage.js"
+			],
+			[
+				"scanrunscopejs",
+				"app/scripts/controllers/scanning/runtime/scope.js"
+			],
+			[
+				"accscanrun",
+				"tests/suites/acceptance/scanningRuntimeExplore.js"
+			],
+			[
+				"scanrunstore",
+				"tests/suites/sds/services/scanningRuntimeStore.js"
+			],
+			[
+				"scanpolstore",
+				"app/scripts/services/sds/scanningPolicyStore.js"
+			],
+			[
+				"routepolievenscope",
+				"app/scripts/routes/policyEvents/time/scope.js"
+			],
+			[
+				"redirect",
+				"app/scripts/routes/mixins/redirect.js"
+			],
+			[
+				"runtimeindex",
+				"app/scripts/routes/scanning/runtime/index.js"
+			],
+			[
+				"routerjs",
+				"app/scripts/routes/router.js"
+			],
+			[
+				"scanrunscope",
+				"app/scripts/routes/scanning/runtime/scope.js"
+			],
+			[
+				"scopeextrac",
+				"app/scripts/routes/mixins/scopeExtract.js"
+			],
+			[
+				"routepolevenscop",
+				"app/scripts/routes/policyEvents/time/scope.js"
+			],
+			[
+				"polievenscope",
+				"app/scripts/controllers/policyEvents/time/scope.js"
+			],
+			[
+				"pac",
+				"package.json"
+			],
+			[
+				"blockinput",
+				"app/scripts/components/block-input.js"
+			],
+			[
+				"scanporuledijs",
+				"app/scripts/components/sds-scanning-policy-rule-editor.js"
+			],
+			[
+				"scanpolruledless",
+				"app/styles/components/sds-scanning-policy-rule-editor.less"
+			],
+			[
+				"scanpoledihbs",
+				"app/templates/components/sds-scanning-policy-editor.hbs"
+			],
+			[
+				"scanpolirulhbs",
+				"app/templates/components/sds-scanning-policy-rule-editor.hbs"
+			],
+			[
+				"polrulelistjs",
+				"tests/suites/sds/components/sds-scanning-policy-rules-list.js"
+			],
+			[
+				"scanactionhbs",
+				"app/templates/components/sds-scanning-action-dropdown.hbs"
+			],
+			[
+				"polruledihbs",
+				"app/templates/components/sds-scanning-policy-rule-editor.hbs"
+			],
+			[
+				"scanpolrullistjs",
+				"tests/suites/sds/components/sds-scanning-policy-rules-list.js"
+			],
+			[
+				"scanpolrulelistjs",
+				"app/scripts/components/sds-scanning-policy-rules-list.js"
+			],
+			[
+				"scanpolrulisthbs",
+				"app/templates/components/sds-scanning-policy-rules-list.hbs"
+			],
+			[
+				"scanporuledjs",
+				"app/scripts/components/sds-scanning-policy-rule-editor.js"
+			],
+			[
+				"scapolredles",
+				"app/styles/components/sds-scanning-policy-rule-editor.less"
+			],
+			[
+				"scanpolredhbs",
+				"app/templates/components/sds-scanning-policy-rule-editor.hbs"
+			],
+			[
+				"scanpolrullihbs",
+				"app/templates/components/sds-scanning-policy-rules-list.hbs"
+			],
+			[
+				"scanpolrullisles",
+				"app/styles/components/sds-scanning-policy-rules-list.less"
+			],
+			[
+				"blockdropfiljs",
+				"app/scripts/components/block-dropdown-filtered.js"
+			],
+			[
+				"blockdropdofiljs",
+				"app/scripts/components/block-dropdown-filtered.js"
+			],
+			[
+				"blockdrofilehbs",
+				"app/templates/components/block-dropdown-filtered.hbs"
+			],
+			[
+				"blockdropfil",
+				"app/scripts/components/block-dropdown-filtered.js"
+			],
+			[
+				"scanpolrullisthbs",
+				"app/templates/components/sds-scanning-policy-rules-list.hbs"
+			],
+			[
+				"colorl",
+				"app/styles/colors.less"
+			],
+			[
+				"ruleeditles",
+				"app/styles/components/sds-scanning-policy-rule-editor.less"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/sysdig2/frontend.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 229.0,
+		"last_filter": "findquery",
+		"selected_items":
+		[
+			[
+				"findquery",
+				"findQuery: function (params)"
+			],
+			[
+				"reateValueOptionsStoreImmediately",
+				"createValueOptionsStoreImmediately"
+			],
+			[
+				"createvalueoptionssto",
+				"ScopeBuilder.createValueOptionsStoreImmediately"
+			],
+			[
+				"adjustusertimeframe",
+				"adjustUserTimeframe: function(timeframe, enforceConstraints, timelines)"
+			],
+			[
+				"adjustustertime",
+				"adjustUserTimeframe: function(userTime, enforceConstraints, timelineId)"
+			],
+			[
+				"deseralizevalue",
+				"deserializeValue"
+			],
+			[
+				"createfromparsedexp",
+				"createFromParsedExpressions"
+			],
+			[
+				"setupapplicat",
+				"setupApplicationUserSettingsGETRequest"
+			],
+			[
+				"configurestub(",
+				"function configureStub(url, parameters)"
+			],
+			[
+				"basictestbed",
+				"function basicTestbed()"
+			],
+			[
+				"extractarray",
+				"extractArray: function(store, primaryType, rawPayload)"
+			],
+			[
+				"processgetone",
+				"function processGetOne(params, parseIdFromUrl, info)"
+			],
+			[
+				"toggleenabled",
+				"toggleEnabled: function(alert, value)"
+			],
+			[
+				"notifyprop",
+				"notifyPropertyChange: function(keyName)"
+			],
+			[
+				"changetimeagg",
+				"changeTimeAggregation: function(newValueObj, index)"
+			],
+			[
+				"translate:fun",
+				"translate: function(sel)"
+			],
+			[
+				"i18n",
+				"I18n.translate"
+			],
+			[
+				"session: func",
+				"session: function()"
+			],
+			[
+				"action: fun",
+				"action: function(name, parameters, integrations)"
+			],
+			[
+				"action",
+				"action: function()"
+			],
+			[
+				"parsedata",
+				"parseData: function()"
+			],
+			[
+				"didinser",
+				"didInsertElement()"
+			],
+			[
+				"didsucce",
+				"didSucceedLoad: function(descriptor, dataRequest)"
+			],
+			[
+				"exitmxaim",
+				"exitMaximize()"
+			]
+		],
+		"width": 1336.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 238.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

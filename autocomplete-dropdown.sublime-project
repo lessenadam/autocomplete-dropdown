@@ -1,0 +1,13 @@
+{
+    "folders":
+    [
+        {
+            "path": "/Users/adam/Documents/autocomplete-dropdown"
+        }
+    ],
+    "settings": {
+        "ESLint-Formatter": {
+            "format_on_save": true
+        }
+    }
+}
