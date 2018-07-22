@@ -50,6 +50,9 @@ body {
   margin: 0;
   padding: 0 4px;
   box-sizing: border-box;
+  text-align: initial;
+  font-size: 13px;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
 }
 .autocomplete-dropdown-list-item {
   height: 32px;
