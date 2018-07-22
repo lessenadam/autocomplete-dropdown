@@ -520,10 +520,10 @@
 	"buffers":
 	[
 		{
-			"file": "App.js",
+			"file": "AutocompleteDropdown.js",
 			"settings":
 			{
-				"buffer_size": 375,
+				"buffer_size": 2168,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -532,25 +532,7 @@
 			"file": "/Users/adam/Documents/autocomplete-dropdown/.eslintrc",
 			"settings":
 			{
-				"buffer_size": 679,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "DropdownIntroHeader.js",
-			"settings":
-			{
-				"buffer_size": 432,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "AutocompleteDropdown.js",
-			"settings":
-			{
-				"buffer_size": 260,
+				"buffer_size": 711,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -882,14 +864,13 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
-	"expanded_folders":
-	[
-		"/Users/adam/Documents/autocomplete-dropdown",
-		"/Users/adam/Documents/autocomplete-dropdown/public",
-		"/Users/adam/Documents/autocomplete-dropdown/src"
-	],
 	"file_history":
 	[
+		"/Users/adam/Documents/autocomplete-dropdown/src/AutocompleteDropdown.js",
+		"/Users/adam/Documents/autocomplete-dropdown/src/DropdownIntroHeader.js",
+		"/Users/adam/Documents/autocomplete-dropdown/.eslintrc",
+		"/Users/adam/Documents/autocomplete-dropdown/src/App.js",
+		"/Users/adam/Documents/autocomplete-dropdown/src/autocomplete-dropdown.sublime-project",
 		"/Users/adam/Documents/sysdig/sds-frontend/app/scripts/controllers/policyEvents/time/scope.js",
 		"/Users/adam/Documents/sysdig/sds-frontend/app/scripts/routes/policyEvents/time/scope.js",
 		"/Users/adam/Documents/sysdig/sds-frontend/app/scripts/controllers/scanning/runtime/scope.js",
@@ -1012,12 +993,7 @@
 		"/Users/adam/Documents/sysdig/sds-frontend/app/styles/components/sds-repo-tag-list.less",
 		"/Users/adam/Documents/sysdig/sds-frontend/app/templates/components/sds-repo-tag-list.hbs",
 		"/Users/adam/Documents/sysdig/sds-frontend/app/scripts/components/block-policy-list.js",
-		"/Users/adam/Documents/sysdig/sds-frontend/app/scripts/components/sds-repo-tag-list.js",
-		"/Users/adam/Documents/sysdig/sds-frontend/tests/suites/sds/components/sds-repo-tag-list.js",
-		"/Users/adam/Documents/sysdig/sds-frontend/app/scripts/services/sds/scanningRepositoryStore.js",
-		"/Users/adam/Documents/sysdig/sds-frontend/app/scripts/components/block-policy-rule-processes-form.js",
-		"/Users/adam/Documents/sysdig/sds-frontend/app/scripts/routes/policies/list/search/selection.js",
-		"/Users/adam/Documents/sysdig/sds-frontend/app/scripts/models/policy.js"
+		"/Users/adam/Documents/sysdig/sds-frontend/app/scripts/components/sds-repo-tag-list.js"
 	],
 	"find":
 	{
@@ -1035,6 +1011,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"log",
+			"update",
+			"updateInput",
+			"update",
 			"DropdownIntroHeader",
 			"DropdowonIntroHeader",
 			"App",
@@ -1057,109 +1037,42 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "App.js",
+					"file": "AutocompleteDropdown.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 375,
+						"buffer_size": 2168,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								375,
-								375
+								369,
+								369
 							]
 						],
 						"settings":
 						{
-							"SL.1064.region_keys":
+							"SL.31.region_keys":
 							[
-								"sublime_linter.protected_regions",
+								"SL.eslint.Highlights.|9e7bb53bc84aa72811001b35f356be017b60ccbbde916cc636e3dca19b4e4678|region.redish markup.error.sublime_linter|32",
 								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot",
-								"SL.eslint.Highlights.|a79d196d93d25cbe538f98e3a77606f5d3953943c19a97a25d345dca91e147f7|region.redish markup.error.sublime_linter|32"
-							],
-							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/Users/adam/Documents/autocomplete-dropdown/.eslintrc",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 679,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								329,
-								329
-							]
-						],
-						"settings":
-						{
-							"SL.1091.region_keys":
-							[
-							],
-							"open_with_edit": true,
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "DropdownIntroHeader.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 432,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								357,
-								357
-							]
-						],
-						"settings":
-						{
-							"SL.1066.region_keys":
-							[
-								"sublime_linter.protected_regions",
-								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot",
-								"SL.eslint.Highlights.|6db90fce214ec1591a06298aea181e9c36b51169268b0432d8c1f72daedb6d7f|region.redish markup.error.sublime_linter|32"
-							],
-							"SL.57.region_keys":
-							[
 								"sublime_linter.protected_regions"
 							],
-							"open_with_edit": true,
+							"SL.88.region_keys":
+							[
+								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot",
+								"sublime_linter.protected_regions",
+								"SL.eslint.Highlights.|979a40e47f1d2b5589cd77df22fae3d6eed54c78f5a06ec52d84c87987f5bacb|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|104a86d70850c88c5f2efbd1ca7bc716c088641ec7c7a3ec224440620b455b04|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|b241dc8c50b496b1d3a0c83279ba8d975f527dd17c280a4087e2ec3c13ff3253|region.redish markup.error.sublime_linter|32"
+							],
 							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
 						},
 						"translation.x": 0.0,
@@ -1170,40 +1083,33 @@
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "AutocompleteDropdown.js",
+					"buffer": 1,
+					"file": "/Users/adam/Documents/autocomplete-dropdown/.eslintrc",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 260,
+						"buffer_size": 711,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								260,
-								260
+								703,
+								703
 							]
 						],
 						"settings":
 						{
-							"SL.1090.region_keys":
-							[
-								"sublime_linter.protected_regions",
-								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot",
-								"SL.eslint.Highlights.|6db90fce214ec1591a06298aea181e9c36b51169268b0432d8c1f72daedb6d7f|region.redish markup.error.sublime_linter|32"
-							],
-							"open_with_edit": true,
-							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
-							"tab_size": 2,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]

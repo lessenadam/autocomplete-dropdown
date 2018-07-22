@@ -49,21 +49,26 @@ class AutocompleteDropdown extends Component {
 
   render() {
     return (
-      <div className="auotcomplete-dropdown-input-container">
-        <input
-          onBlur={this.focusOut}
-          onChange={this.updateSearchString}
-          onFocus={this.focusIn}
-          value={this.state.searchString}
-          placeholder="select..."
-        />
-        {true ? (
-          <ul>
-            {this.state.dropdownOptionsToShow.map((option, i) => (
-              <li key={i}>{option.name}</li>
-            ))}
-          </ul>
-        ) : null}
+      <div className="autocomplete-dropdown">
+        <div className="autocomplete-dropdown-inner-container">
+          <input
+            className="autocomplete-dropdown-input"
+            onBlur={this.focusOut}
+            onChange={this.updateSearchString}
+            onFocus={this.focusIn}
+            value={this.state.searchString}
+            placeholder="select..."
+          />
+          {this.state.isDropdownOpen ? (
+            <ul className="autocomplete-dropdown-list">
+              {this.state.dropdownOptionsToShow.map((option, i) => (
+                <li className="autocomplete-dropdown-list-item" key={i}>
+                  {option.name}
+                </li>
+              ))}
+            </ul>
+          ) : null}
+        </div>
       </div>
     );
   }

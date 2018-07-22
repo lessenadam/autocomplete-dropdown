@@ -26,3 +26,33 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+body {
+  box-sizing: border-box;
+}
+
+.autocomplete-dropdown {
+  display: flex;
+  justify-content: center;
+}
+
+.autocomplete-dropdown-inner-container {
+}
+.autocomplete-dropdown-input {
+  width: 300px;
+  display: block;
+  box-sizing: border-box;
+}
+.autocomplete-dropdown-list {
+  width: 300px;
+  list-style: none;
+  border: 1px solid lightgray;
+  margin: 0;
+  padding: 0 4px;
+  box-sizing: border-box;
+}
+.autocomplete-dropdown-list-item {
+  height: 32px;
+  display: flex;
+  align-items: center;
+}
