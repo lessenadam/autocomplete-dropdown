@@ -48,14 +48,21 @@ body {
   list-style: none;
   border: 1px solid lightgray;
   margin: 0;
-  padding: 0 4px;
+  padding: 0;
   box-sizing: border-box;
   text-align: initial;
   font-size: 13px;
   box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
 }
 .autocomplete-dropdown-list-item {
+  padding: 0 4px;
+  text-overflow: ellipsis;
   height: 32px;
-  display: flex;
-  align-items: center;
+  line-height: 32px;
+  overflow: hidden;
+  white-space: nowrap;
+  cursor: pointer;
+}
+.autocomplete-dropdown-list-item--highlighted {
+  background: rgba(119,136,153, .1);
 }
