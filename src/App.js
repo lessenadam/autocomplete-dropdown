@@ -33,12 +33,19 @@ class App extends Component {
   }
 
   componentDidMount() {
-    const dropdownOptions = this.getOptionsForDropdown();
-    this.setState({ dropdownOptions });
+    this.getOptionsForDropdown().then((dropdownOptions) => {
+      this.setState({ dropdownOptions });
+    });
   }
 
   getOptionsForDropdown() {
-    return mockData.products;
+    //
+    // optionally could make an HTTP requests here to fetch any data
+    //
+    const promise = new Promise((resolve) => {
+      resolve(mockData.products);
+    });
+    return promise;
   }
 
   render() {

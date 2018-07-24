@@ -9,6 +9,7 @@ class AutocompleteDropdown extends Component {
       isDropdownOpen: false,
       dropdownOptionsToShow: props.dropdownOptions,
       highlightedListItem: null,
+      selection: null,
     };
 
     this.textInput = React.createRef();
@@ -90,8 +91,9 @@ class AutocompleteDropdown extends Component {
   updateSearchString(event) {
     const searchString = event.target.value;
     this.updateDropdownOptions(searchString);
-    this.setState({ searchString, highlightedListItem: null });
+    this.setState({ searchString, highlightedListItem: null, selection: null });
   }
+
   focusOut(event) {
     if (
       event.relatedTarget === null ||
@@ -102,6 +104,7 @@ class AutocompleteDropdown extends Component {
       this.setState({ isDropdownOpen: false, highlightedListItem: null });
     }
   }
+
   focusIn() {
     this.setState({ isDropdownOpen: true });
   }
@@ -120,11 +123,20 @@ class AutocompleteDropdown extends Component {
   }
 
   render() {
+    const inputStyle =
+      this.state.selection !== null
+        ? {
+            outlineColor: 'green',
+            borderBottom: '3px solid green',
+          }
+        : null;
+
     return (
       <div className="autocomplete-dropdown">
         <div className="autocomplete-dropdown-inner-container">
           <input
             className="autocomplete-dropdown-input"
+            style={inputStyle}
             onBlur={this.focusOut}
             onChange={this.updateSearchString}
             onKeyPress={this.keyPress}
